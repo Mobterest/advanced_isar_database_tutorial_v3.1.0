@@ -1,16 +1,7 @@
-# expensetracker
+# Advanced Isar Database Tutorial
 
-A new Flutter project.
+## v3.1.0
 
-## Getting Started
+Built with [Dart](https://dart.dev/) :star2:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Watch the Full Tutorial](isar_db.png)](https://www.youtube.com/playlist?list=PLKKf8l1ne4_jcOLfnDey75NJsI7KAi8Wx)
