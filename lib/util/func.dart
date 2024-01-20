@@ -341,7 +341,7 @@ mixin Func {
     List<Income> incomes = [];
 
     if (!Firestore.initialized) {
-      Firestore.initialize("isardatabase-723ab");
+      Firestore.initialize("project-id");
     }
 
     await Firestore.instance
@@ -363,7 +363,7 @@ mixin Func {
 
   Future<void> exportDataToFirebase() async {
     if (!Firestore.initialized) {
-      Firestore.initialize("isardatabase-723ab");
+      Firestore.initialize("project-id");
     }
 
     List<Expense> xpenses = await getAllExpenses();
